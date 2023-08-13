@@ -15,13 +15,13 @@ python3 script/transDrift.py
 To perform downstream task mentioned in the paper for amazon dataset update downstream/amazon/arch.py, run this command:
 
 ```
-python3 downstream/amazon/arch.py
+python3 downstream/amazon/downstream.py
 ```
 
 To perform downstream task mentioned in the paper for yelp dataset update downstream/yelp/arch.py, run this command:
 
 ```
-python3 downstream/yelp/arch.py
+python3 downstream/yelp/downstream.py
 ```
 
 
